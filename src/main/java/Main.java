@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        String text = "    hello Git         ";
+        String text = "    hello IntelliJ         ";
         String trimmed = StringUtils.trim(text);
         System.out.println(trimmed);
 
